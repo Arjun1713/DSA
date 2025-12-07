@@ -1,2 +1,2 @@
 # CodeChefQuestions
-This repository contains solutions for the questions that I solve on CodeChef
+This repository contains solutions for the DSA Questions that I solve on various platforms.
